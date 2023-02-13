@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sah v2", "sah v2.csproj", "{03255AAE-2604-4A6A-A544-1C5D40F60ABD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03255AAE-2604-4A6A-A544-1C5D40F60ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03255AAE-2604-4A6A-A544-1C5D40F60ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03255AAE-2604-4A6A-A544-1C5D40F60ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03255AAE-2604-4A6A-A544-1C5D40F60ABD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {112C1694-197F-457D-B850-1721DAD8E047}
+	EndGlobalSection
+EndGlobal
